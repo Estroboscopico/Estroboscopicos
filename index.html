@@ -261,7 +261,7 @@
             </p>
             
             <div style="text-align: center; margin-bottom: 25px;">
-                <a href="ENLACE_DEL_GRUPO_DE_GOOGLE" target="_blank" class="btn-youtube btn-app btn-app-outline" style="padding: 12px 25px;">Paso 1: Únete al Grupo de Testers Aquí</a>
+                <a href="https://groups.google.com/g/estroboscopicos" target="_blank" class="btn-youtube btn-app btn-app-outline" style="padding: 12px 25px;">Paso 1: Únete al Grupo de Testers Aquí</a>
             </div>
 
             <div class="grid-listas">
@@ -322,7 +322,7 @@
     </main>
 
     <div id="cookie-banner">
-        <p>Esta web utiliza cookies de Google Analytics para medir el tráfico y mejorar la experiencia de divulgación. Si continúas navegando o aceptas, das tu consentimiento. <a href="#" style="color: #4CAF50; text-decoration: underline;">Política de Privacidad</a></p>
+        <p>Esta web utiliza cookies de Google Analytics para medir el tráfico y mejorar la experiencia de divulgación. Si continúas navegando o aceptas, das tu consentimiento. <a href="privacidad.html" style="color: #4CAF50; text-decoration: underline;">Política de Privacidad</a></p>
         <button onclick="acceptCookies()">Aceptar</button>
     </div>
 
@@ -333,13 +333,13 @@
 
     <script>
         document.addEventListener("DOMContentLoaded", () => {
+            // Cargar datos de vídeos de YouTube
             fetch('datos_totales_canal.json')
                 .then(response => {
                     if (!response.ok) throw new Error("No se pudo cargar el JSON");
                     return response.json();
                 })
                 .then(datos => {
-                    
                     if(datos.suscriptores) {
                         document.getElementById('contador-subs').textContent = `▶ Ya somos ${datos.suscriptores} Estrellas`;
                         document.getElementById('texto-agradecimiento').innerHTML = `Gracias a las <strong>${datos.suscriptores} estrellas</strong> que ya forman parte de este universo. Un agradecimiento especial a nuestros mecenas:`;
@@ -410,6 +410,7 @@
                     console.log("No se mostraron los vídeos dinámicos. Motivo:", error);
                 });
 
+            // Cargar datos de la comunidad/mecenas
             fetch('comunidad.json')
                 .then(response => {
                     if (!response.ok) throw new Error("No hay archivo de comunidad");
