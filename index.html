@@ -137,6 +137,10 @@
         #cookie-banner button:hover { background-color: #45a049; }
 
         footer { text-align: center; font-size: 0.9em; color: #777; margin-top: 40px; }
+        
+        /* Estilo para el enlace de contacto en el footer */
+        .enlace-contacto { color: #2c3e50; font-weight: bold; text-decoration: none; transition: color 0.2s; }
+        .enlace-contacto:hover { color: #ff0000; text-decoration: underline; }
 
         .grid-videos, .grid-listas {
             display: grid;
@@ -312,7 +316,9 @@
         <button onclick="acceptCookies()">Aceptar</button>
     </div>
 
+    <!-- FOOTER ACTUALIZADO CON EMAIL -->
     <footer>
+        <p style="margin-bottom: 10px;">Contacto: <a href="mailto:estroboscopicos@gmail.com" class="enlace-contacto">estroboscopicos@gmail.com</a></p>
         <p>&copy; 2026 Estroboscópicos. Todos los derechos reservados.</p>
     </footer>
 
@@ -367,7 +373,6 @@
                                     <a href="${item.url}" target="_blank">
                                         <div class="info-tarjeta">
                                             <h3>📁 ${item.titulo}</h3>
-                                            <p class="vistas">${item.cantidad_videos} vídeos</p>
                                         </div>
                                     </a>
                                 `;
