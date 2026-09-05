@@ -107,6 +107,13 @@
         
         .btn-app { background-color: #4CAF50; box-shadow: 0 2px 5px rgba(76, 175, 80, 0.3); }
         .btn-app:hover { background-color: #45a049; }
+
+        .btn-app-outline {
+            background-color: transparent;
+            color: #4CAF50;
+            border: 2px solid #4CAF50;
+        }
+        .btn-app-outline:hover { background-color: #f1f8f1; color: #4CAF50;}
         
         .btn-newsletter { background-color: #2c3e50; box-shadow: 0 2px 5px rgba(44, 62, 80, 0.3); }
         .btn-newsletter:hover { background-color: #1a252f; }
@@ -189,6 +196,21 @@
             border: 2px solid #d0e3ff;
             text-align: center;
         }
+
+        .form-newsletter {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+        .input-newsletter {
+            padding: 12px;
+            width: 250px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 1rem;
+        }
     </style>
 </head>
 <body>
@@ -206,13 +228,18 @@
             <p>Aquí desarmamos fórmulas complejas, exploramos los secretos de la mecánica, la física y los fenómenos naturales a través de animaciones y análisis rigurosos.</p>
         </section>
 
+        <!-- SECCIÓN: NEWSLETTER NATIVA -->
         <section class="seccion-newsletter">
             <h2>📬 Únete a la Newsletter</h2>
-            <p>Apúntate para no perderte ningún vídeo, recibir los apuntes de física que preparo, enterarte de mis nuevos proyectos y descargar los códigos de mis animaciones y utilidades.</p>
+            <p>Apúntate para no perderte ningún vídeo, recibir noticias sobre las nuevas Apps y más novedades....</p>
             
-            <div style="margin-top: 20px;">
-                <a href="https://estroboscopico.substack.com/?r=91tsr9&utm_campaign=pub-share-checklist" target="_blank" class="btn-youtube btn-newsletter">Suscribirse en Substack</a>
-            </div>
+            <form id="form-newsletter" class="form-newsletter">
+                <input type="email" id="email-input" name="email" class="input-newsletter" placeholder="Tu correo electrónico" required>
+                <button type="submit" id="btn-submit-news" class="btn-youtube btn-newsletter" style="margin-top: 0;">Suscribirse</button>
+            </form>
+            
+            <!-- Mensaje de éxito o carga invisible por defecto -->
+            <p id="mensaje-newsletter" style="display: none; font-weight: bold; margin-top: 15px;"></p>
             
             <p style="font-size: 0.8em; color: #666; margin-top: 15px;">Cero spam. Solo ciencia, desarrollo y divulgación.</p>
         </section>
@@ -230,16 +257,20 @@
             <h2>📱 Apps Educativas en Fase de Pruebas (Beta Testers)</h2>
             <p>Para complementar la divulgación científica, desarrollo herramientas interactivas para dispositivos Android. Puedes ayudarme a probarlas antes de su publicación oficial.</p>
             <p style="background: #fff3cd; padding: 10px; border-radius: 4px; font-size: 0.9em; border-left: 4px solid #ffc107;">
-                <strong>⚠️ Requisitos de Google Play:</strong> Para que estas apps puedan publicarse oficialmente, Google exige que al menos 20 personas se unan como testers, mantengan la app instalada y la utilicen ocasionalmente durante <strong>14 días continuos</strong>. ¡Si tienes un teléfono Android, tu ayuda es vital!
+                <strong>⚠️ Requisitos de Google Play:</strong> Para poder descargarlas, <strong>primero debes unirte a nuestro Grupo de Google</strong> de probadores. Después, podrás instalar las aplicaciones y probarlas durante 14 días continuos. ¡Tu ayuda es vital!
             </p>
             
+            <div style="text-align: center; margin-bottom: 25px;">
+                <a href="ENLACE_DEL_GRUPO_DE_GOOGLE" target="_blank" class="btn-youtube btn-app btn-app-outline" style="padding: 12px 25px;">Paso 1: Únete al Grupo de Testers Aquí</a>
+            </div>
+
             <div class="grid-listas">
                 
                 <article class="tarjeta-app">
                     <div class="info-tarjeta">
                         <h3>📐 Simulador de Vectores</h3>
                         <p style="font-size: 0.9em; color: #555; margin-bottom: 15px;">Herramienta interactiva para visualizar sumas, restas, proyecciones y cálculos con vectores aplicados a la física y la mecánica clásica.</p>
-                        <a href="https://play.google.com/apps/internaltest/4701617463793261734" target="_blank" class="btn-youtube btn-app" style="display: block; text-align: center; margin: 0;">Participar como Tester (14 días)</a>
+                        <a href="https://play.google.com/apps/internaltest/4701617463793261734" target="_blank" class="btn-youtube btn-app" style="display: block; text-align: center; margin: 0; font-size: 0.9em;">Paso 2: Descargar App</a>
                     </div>
                 </article>
 
@@ -247,7 +278,7 @@
                     <div class="info-tarjeta">
                         <h3>🌍 Monitor de Terremotos</h3>
                         <p style="font-size: 0.9em; color: #555; margin-bottom: 15px;">Aplicación para el análisis, visualización de ondas sísmicas y registro de fenómenos geológicos y sismológicos recientes en el planeta.</p>
-                        <a href="https://play.google.com/apps/internaltest/4700835483676229985" target="_blank" class="btn-youtube btn-app" style="display: block; text-align: center; margin: 0;">Participar como Tester (14 días)</a>
+                        <a href="https://play.google.com/apps/internaltest/4700835483676229985" target="_blank" class="btn-youtube btn-app" style="display: block; text-align: center; margin: 0; font-size: 0.9em;">Paso 2: Descargar App</a>
                     </div>
                 </article>
 
@@ -255,7 +286,7 @@
                     <div class="info-tarjeta">
                         <h3>🌑 Simulador de Eclipses</h3>
                         <p style="font-size: 0.9em; color: #555; margin-bottom: 15px;">Utilidad astronómica para predecir, calcular y visualizar las trayectorias y fases de eventos astronómicos, tanto solares como lunares.</p>
-                        <a href="https://play.google.com/apps/internaltest/4701406209994613700" target="_blank" class="btn-youtube btn-app" style="display: block; text-align: center; margin: 0;">Participar como Tester (14 días)</a>
+                        <a href="https://play.google.com/apps/internaltest/4701406209994613700" target="_blank" class="btn-youtube btn-app" style="display: block; text-align: center; margin: 0; font-size: 0.9em;">Paso 2: Descargar App</a>
                     </div>
                 </article>
 
@@ -285,7 +316,7 @@
 
         <section class="seccion-destacada">
             <h2>¡Apoya el proyecto!</h2>
-            <p>Si te gusta cómo explicamos la ciencia, la mejor forma de ayudar es uniéndote a la comunidad. ¡Es gratis y me ayuda muchísimo a seguir creando contenido!</p>
+            <p>Si te gusta cómo explicamos la ciencia, la mejor forma de ayudar es uniéndote a la comunidad. ¡Es gratis y nos ayuda muchísimo a seguir creando contenido!</p>
             <a href="https://www.youtube.com/@ESTROBOSCOPICOS?sub_confirmation=1" class="btn-youtube" target="_blank">🔔 Suscribirse a Estroboscópicos</a>
         </section>
     </main>
@@ -400,6 +431,42 @@
                 .catch(error => {
                     console.log("No se encontraron mecenas para mostrar.");
                 });
+
+            // --- LÓGICA DE LA NEWSLETTER PROPIA ---
+            const formNewsletter = document.getElementById('form-newsletter');
+            const btnSubmit = document.getElementById('btn-submit-news');
+            const mensajeDiv = document.getElementById('mensaje-newsletter');
+            
+            const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzOX8rzY61s3Mo1yDrwUeNeQ-buZRB6k197OAUWK5b5VigX6fT1q1_Cxy6dlSNMkIgZkQ/exec';
+
+            formNewsletter.addEventListener('submit', e => {
+                e.preventDefault(); 
+                
+                const email = document.getElementById('email-input').value;
+                
+                btnSubmit.textContent = 'Enviando...';
+                btnSubmit.disabled = true;
+                
+                fetch(GOOGLE_SCRIPT_URL, {
+                    method: 'POST',
+                    mode: 'no-cors', 
+                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                    body: `email=${encodeURIComponent(email)}`
+                })
+                .then(() => {
+                    formNewsletter.style.display = 'none';
+                    mensajeDiv.style.display = 'block';
+                    mensajeDiv.style.color = '#4CAF50';
+                    mensajeDiv.innerHTML = '¡Gracias por unirte a Estroboscópicos! Te he añadido a la lista.';
+                })
+                .catch(error => {
+                    btnSubmit.textContent = 'Suscribirse';
+                    btnSubmit.disabled = false;
+                    mensajeDiv.style.display = 'block';
+                    mensajeDiv.style.color = '#ff0000';
+                    mensajeDiv.innerHTML = 'Hubo un error. Por favor, inténtalo de nuevo.';
+                });
+            });
         });
     </script>
 
