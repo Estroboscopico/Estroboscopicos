@@ -1,13 +1,13 @@
 {
     "canal": "ESTROBOSCOPICOS",
     "url_canal": "https://www.youtube.com/@ESTROBOSCOPICOS",
-    "suscriptores": 93,
+    "suscriptores": 95,
     "videos_largos": [
         {
             "id": "GJDlwIL9a-o",
             "titulo": "¡Terremoto! ¿Sobreviviremos? #Ciencia #Terremotos #Geología #Física #Curiosidades",
             "url": "https://www.youtube.com/watch?v=GJDlwIL9a-o",
-            "vistas": 766,
+            "vistas": 861,
             "duracion": 1793,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/GJDlwIL9a-o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpeDqrcJBzc9r6IYVp_cvSGwQCKQ"
@@ -43,7 +43,7 @@
             "id": "Pw-s19-fg4o",
             "titulo": "05 Vectores: La clave matemática para sobrevivir a la deriva #vector #vectores #fisica #vectors",
             "url": "https://www.youtube.com/watch?v=Pw-s19-fg4o",
-            "vistas": 32,
+            "vistas": 33,
             "duracion": 705,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/Pw-s19-fg4o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt44hH4qR4qpjXbb4nkuPBBdSiqw"
@@ -87,10 +87,19 @@
     ],
     "shorts": [
         {
+            "id": "V0W63RiV54A",
+            "titulo": "Mercalli Scale #Physics #Earthquakes #MercalliScale #Seismology #Science #Geophysics #Shorts",
+            "url": "https://www.youtube.com/shorts/V0W63RiV54A",
+            "vistas": 249,
+            "duracion": null,
+            "fecha_publicacion": null,
+            "miniatura": "https://i.ytimg.com/vi/V0W63RiV54A/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDGFl_jvf2Nl-aImiwvrVaoXYEQKw"
+        },
+        {
             "id": "QoRiAZWIBKY",
             "titulo": "Goodbye Richter: The Real Physics Calculation That Measures Earth's Fury #Physics #RichterScale",
             "url": "https://www.youtube.com/shorts/QoRiAZWIBKY",
-            "vistas": 372,
+            "vistas": 377,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/QoRiAZWIBKY/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBpSg9D5S6UAEGPf8FZt5OmrxyoSA"
@@ -162,7 +171,7 @@
             "id": "7mSHtgjw1qM",
             "titulo": "¿La Tierra es una LENTE GIGANTE? 🌍🔍     #Shorts #Ciencia #Física #Geología #Terremotos #Curiosidades",
             "url": "https://www.youtube.com/shorts/7mSHtgjw1qM",
-            "vistas": 936,
+            "vistas": 938,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/7mSHtgjw1qM/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBo-2yXfeHEWma1zxuFBvfs_zuyyQ"
@@ -216,7 +225,7 @@
             "id": "vVMEpBXW0bg",
             "titulo": "Encuentra tu Eclipse Total #androidapp #android #eclipse #física #programacion #androidstudio",
             "url": "https://www.youtube.com/shorts/vVMEpBXW0bg",
-            "vistas": 113,
+            "vistas": 114,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/vVMEpBXW0bg/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAalCI3MPT2_y6d-ekkjFEn4XGxvw"
@@ -243,7 +252,7 @@
             "id": "7-8YN4H3lI4",
             "titulo": "¿Cómo Multiplicas los Vectores? #vector #vectores #fisica #vectors",
             "url": "https://www.youtube.com/shorts/7-8YN4H3lI4",
-            "vistas": 27,
+            "vistas": 28,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/7-8YN4H3lI4/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDXUS_7wPDA635H0xGj2rzgTzzKWA"
@@ -306,7 +315,7 @@
             "id": "-OM24VEzSSQ",
             "titulo": "Resumen de las leyes de Galileo #ciencia #astronomia #galileo",
             "url": "https://www.youtube.com/shorts/-OM24VEzSSQ",
-            "vistas": 243,
+            "vistas": 244,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/-OM24VEzSSQ/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCyh0Lehc4iPcJa-CozH9Jgn2fDBw"
@@ -318,7 +327,7 @@
             "vistas": 1700,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/-oWnhZGSYFA/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDuam-MEeiu2EdUfLtGwp9ws63VKw&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/-oWnhZGSYFA/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBhvyFU-uTqDFlI4rE05w5XVSnRxA&usqp=CCk"
         },
         {
             "id": "qr8Z1vbB4Ms",
@@ -342,7 +351,7 @@
             "id": "r2gdRkmcyfY",
             "titulo": "Galileo Galilei y descubrimiento con el telescopio #galileo #physics #fisica #historia",
             "url": "https://www.youtube.com/shorts/r2gdRkmcyfY",
-            "vistas": 870,
+            "vistas": 871,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/r2gdRkmcyfY/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBK29PokuvA4yLFs7_Yj7fOnFVEdg&usqp=CCk"
@@ -381,7 +390,7 @@
             "vistas": 1000,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/DeoAbEV-v0U/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBuiPDzElnRGhJdWGbmuY_igC5e3Q&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/DeoAbEV-v0U/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDzvFqxQ6nHkcbBsFh2FikIoA6szg&usqp=CCk"
         },
         {
             "id": "C_NMaiwkbEQ",
@@ -399,7 +408,7 @@
             "vistas": 3200,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/wVXHpDAg6io/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLC8r1_HYKSH6wzQleNq2rqyxw_wIQ&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/wVXHpDAg6io/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDixpgb5jA2YMffMpsQrE0jPbQx8A&usqp=CCk"
         },
         {
             "id": "CP2zSVGuty0",
