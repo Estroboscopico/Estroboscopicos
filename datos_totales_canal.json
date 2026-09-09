@@ -1,13 +1,13 @@
 {
     "canal": "ESTROBOSCOPICOS",
     "url_canal": "https://www.youtube.com/@ESTROBOSCOPICOS",
-    "suscriptores": 95,
+    "suscriptores": 97,
     "videos_largos": [
         {
             "id": "GJDlwIL9a-o",
             "titulo": "¡Terremoto! ¿Sobreviviremos? #Ciencia #Terremotos #Geología #Física #Curiosidades",
             "url": "https://www.youtube.com/watch?v=GJDlwIL9a-o",
-            "vistas": 861,
+            "vistas": 943,
             "duracion": 1793,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/GJDlwIL9a-o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpeDqrcJBzc9r6IYVp_cvSGwQCKQ"
@@ -34,7 +34,7 @@
             "id": "lKEnkkiJDgE",
             "titulo": "Juega con los vectores y rescata un barco",
             "url": "https://www.youtube.com/watch?v=lKEnkkiJDgE",
-            "vistas": 8,
+            "vistas": 9,
             "duracion": 320,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/lKEnkkiJDgE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfdLk7VS4t2zDKmzEyndO87TmyfQ"
@@ -61,7 +61,7 @@
             "id": "_ltRK1OmwWA",
             "titulo": "03 Differential Calculus: Concepts and Applications",
             "url": "https://www.youtube.com/watch?v=_ltRK1OmwWA",
-            "vistas": 158,
+            "vistas": 159,
             "duracion": 503,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/_ltRK1OmwWA/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFIoOzAP&rs=AOn4CLBAE190ZMbqesacTIlafJEwlx2Dqg"
@@ -70,7 +70,7 @@
             "id": "veBeym-jtU4",
             "titulo": "The Law of Gravity and Calculus",
             "url": "https://www.youtube.com/watch?v=veBeym-jtU4",
-            "vistas": 108,
+            "vistas": 109,
             "duracion": 461,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/veBeym-jtU4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbyk8GRhljTvvQoXLbhZMw19ujiw"
@@ -87,10 +87,19 @@
     ],
     "shorts": [
         {
+            "id": "tNUsB9d1rKM",
+            "titulo": "How to warn of an earthquake before it hits? ⚡🚨 #EarlyWarning #Technology #Science #shorts",
+            "url": "https://www.youtube.com/shorts/tNUsB9d1rKM",
+            "vistas": 1100,
+            "duracion": null,
+            "fecha_publicacion": null,
+            "miniatura": "https://i.ytimg.com/vi/tNUsB9d1rKM/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBYmlwEFHImjXC32SZpZuBqfRsA8Q"
+        },
+        {
             "id": "V0W63RiV54A",
             "titulo": "Mercalli Scale #Physics #Earthquakes #MercalliScale #Seismology #Science #Geophysics #Shorts",
             "url": "https://www.youtube.com/shorts/V0W63RiV54A",
-            "vistas": 249,
+            "vistas": 522,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/V0W63RiV54A/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDGFl_jvf2Nl-aImiwvrVaoXYEQKw"
@@ -99,7 +108,7 @@
             "id": "QoRiAZWIBKY",
             "titulo": "Goodbye Richter: The Real Physics Calculation That Measures Earth's Fury #Physics #RichterScale",
             "url": "https://www.youtube.com/shorts/QoRiAZWIBKY",
-            "vistas": 377,
+            "vistas": 380,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/QoRiAZWIBKY/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBpSg9D5S6UAEGPf8FZt5OmrxyoSA"
@@ -171,7 +180,7 @@
             "id": "7mSHtgjw1qM",
             "titulo": "¿La Tierra es una LENTE GIGANTE? 🌍🔍     #Shorts #Ciencia #Física #Geología #Terremotos #Curiosidades",
             "url": "https://www.youtube.com/shorts/7mSHtgjw1qM",
-            "vistas": 938,
+            "vistas": 940,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/7mSHtgjw1qM/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBo-2yXfeHEWma1zxuFBvfs_zuyyQ"
@@ -234,7 +243,7 @@
             "id": "CvrS7bpGA5A",
             "titulo": "Haz esto en el Eclipse de Sol #fisica #eclipse #eclipsetotal",
             "url": "https://www.youtube.com/shorts/CvrS7bpGA5A",
-            "vistas": 50,
+            "vistas": 53,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/CvrS7bpGA5A/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLC5gtHwPGaIfkAmCp6CpFx_43jHqA"
@@ -252,7 +261,7 @@
             "id": "7-8YN4H3lI4",
             "titulo": "¿Cómo Multiplicas los Vectores? #vector #vectores #fisica #vectors",
             "url": "https://www.youtube.com/shorts/7-8YN4H3lI4",
-            "vistas": 28,
+            "vistas": 29,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/7-8YN4H3lI4/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDXUS_7wPDA635H0xGj2rzgTzzKWA"
@@ -309,7 +318,7 @@
             "vistas": 326,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/jZe0ocaNvyo/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBiRneHOhhqfRR_POZLZsRcefzTqA&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/jZe0ocaNvyo/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBSx5ltgWSnA9je4oOhyDbBKlbe2Q&usqp=CCk"
         },
         {
             "id": "-OM24VEzSSQ",
@@ -327,7 +336,7 @@
             "vistas": 1700,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/-oWnhZGSYFA/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBhvyFU-uTqDFlI4rE05w5XVSnRxA&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/-oWnhZGSYFA/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBWABafwu0loYvjfItYobSnX20SiA&usqp=CCk"
         },
         {
             "id": "qr8Z1vbB4Ms",
@@ -345,7 +354,7 @@
             "vistas": 545,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/wF9n09BYKMc/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCiQHIVlWT6MOsKxwuFh8a9SBN41w&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/wF9n09BYKMc/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAMusQOKmrxqAKg1sRW1wXJ4HGtpQ&usqp=CCk"
         },
         {
             "id": "r2gdRkmcyfY",
@@ -381,7 +390,7 @@
             "vistas": 1400,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/LOTxItFYc30/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCYZId0UMiH_N_JOGv8AOKpvtmdOA&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/LOTxItFYc30/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBDzBJMSfP4cPw6-HfhfINzm0L-nw&usqp=CCk"
         },
         {
             "id": "DeoAbEV-v0U",
@@ -390,7 +399,7 @@
             "vistas": 1000,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/DeoAbEV-v0U/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDzvFqxQ6nHkcbBsFh2FikIoA6szg&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/DeoAbEV-v0U/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBuiPDzElnRGhJdWGbmuY_igC5e3Q&usqp=CCk"
         },
         {
             "id": "C_NMaiwkbEQ",
@@ -408,7 +417,7 @@
             "vistas": 3200,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/wVXHpDAg6io/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDixpgb5jA2YMffMpsQrE0jPbQx8A&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/wVXHpDAg6io/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLA00RdAklnM2JD_ByxA9IY2xSWKtw&usqp=CCk"
         },
         {
             "id": "CP2zSVGuty0",
