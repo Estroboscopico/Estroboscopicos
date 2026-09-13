@@ -1,7 +1,7 @@
 {
     "canal": "ESTROBOSCOPICOS",
     "url_canal": "https://www.youtube.com/@ESTROBOSCOPICOS",
-    "suscriptores": 100,
+    "suscriptores": 102,
     "videos_largos": [
         {
             "id": "GJDlwIL9a-o",
@@ -87,10 +87,19 @@
     ],
     "shorts": [
         {
+            "id": "apPEQU4OR80",
+            "titulo": "The African Plate is Pushing #Physics #Earthquakes #Granada #Geology #Seismology #Geophysics #Shorts",
+            "url": "https://www.youtube.com/shorts/apPEQU4OR80",
+            "vistas": 691,
+            "duracion": null,
+            "fecha_publicacion": null,
+            "miniatura": "https://i.ytimg.com/vi/apPEQU4OR80/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLA2CEGpf-1RM5wt5tIg_lXdEsCRxQ"
+        },
+        {
             "id": "aArvr4fF_BE",
             "titulo": "What is the dreaded earthquake \"blind zone\"? 🛑📉 #BlindZone #Seismology #ScienceCommunication",
             "url": "https://www.youtube.com/shorts/aArvr4fF_BE",
-            "vistas": 700,
+            "vistas": 1200,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/aArvr4fF_BE/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAFknaXENx36Dpe7u3l8HCxzBGBfQ"
@@ -108,7 +117,7 @@
             "id": "SzcvT10n9W4",
             "titulo": "A Golden Minute Before the Earthquake #Physics #Earthquakes #SASMEX #Mexico #Technology #Science ...",
             "url": "https://www.youtube.com/shorts/SzcvT10n9W4",
-            "vistas": 1300,
+            "vistas": 1400,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/SzcvT10n9W4/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCVWCfAxWINjC6z2IYXgjS-KBnTrA"
@@ -117,7 +126,7 @@
             "id": "7FIiKAeeZxg",
             "titulo": "How does mobile earthquake alerting work? #Physics #Earthquakes #CellBroadcast #Shorts",
             "url": "https://www.youtube.com/shorts/7FIiKAeeZxg",
-            "vistas": 985,
+            "vistas": 1000,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/7FIiKAeeZxg/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDCJPv4TlwlMKQIKoR3YGFC6z7vwQ"
@@ -135,7 +144,7 @@
             "id": "V0W63RiV54A",
             "titulo": "Mercalli Scale #Physics #Earthquakes #MercalliScale #Seismology #Science #Geophysics #Shorts",
             "url": "https://www.youtube.com/shorts/V0W63RiV54A",
-            "vistas": 863,
+            "vistas": 864,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/V0W63RiV54A/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDGFl_jvf2Nl-aImiwvrVaoXYEQKw"
@@ -277,7 +286,7 @@
         },
         {
             "id": "CvrS7bpGA5A",
-            "titulo": "Haz esto en el Eclipse de Sol #fisica #eclipse #eclipsetotal",
+            "titulo": "Protégete en el Eclipse de Sol #fisica #eclipse #eclipsetotal",
             "url": "https://www.youtube.com/shorts/CvrS7bpGA5A",
             "vistas": 53,
             "duracion": null,
@@ -295,7 +304,7 @@
         },
         {
             "id": "7-8YN4H3lI4",
-            "titulo": "¿Cómo Multiplicas los Vectores? #vector #vectores #fisica #vectors",
+            "titulo": "¿Producto Escalar o Vectorial? #vectores #fisica #ciencia #shorts",
             "url": "https://www.youtube.com/shorts/7-8YN4H3lI4",
             "vistas": 29,
             "duracion": null,
@@ -354,7 +363,7 @@
             "vistas": 326,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/jZe0ocaNvyo/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBiRneHOhhqfRR_POZLZsRcefzTqA&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/jZe0ocaNvyo/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBSx5ltgWSnA9je4oOhyDbBKlbe2Q&usqp=CCk"
         },
         {
             "id": "-OM24VEzSSQ",
@@ -372,7 +381,7 @@
             "vistas": 1700,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/-oWnhZGSYFA/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBhvyFU-uTqDFlI4rE05w5XVSnRxA&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/-oWnhZGSYFA/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDuam-MEeiu2EdUfLtGwp9ws63VKw&usqp=CCk"
         },
         {
             "id": "qr8Z1vbB4Ms",
@@ -390,7 +399,7 @@
             "vistas": 545,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/wF9n09BYKMc/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCiQHIVlWT6MOsKxwuFh8a9SBN41w&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/wF9n09BYKMc/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDCqovGhvPHSfwws_dduoSTBsfRDg&usqp=CCk"
         },
         {
             "id": "r2gdRkmcyfY",
@@ -399,7 +408,7 @@
             "vistas": 871,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/r2gdRkmcyfY/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDQWCOcPYfLkFkxj8jzzkmD23jWTg&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/r2gdRkmcyfY/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBK29PokuvA4yLFs7_Yj7fOnFVEdg&usqp=CCk"
         },
         {
             "id": "hhoMwuiQres",
@@ -417,7 +426,7 @@
             "vistas": 1600,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/7rxwkHH23cU/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCG73aWfsZj-7A40D4YntEfSBjl8g&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/7rxwkHH23cU/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDJMOSQ0cGJnFsRNSIH_iQsXf79IQ&usqp=CCk"
         },
         {
             "id": "LOTxItFYc30",
@@ -444,7 +453,7 @@
             "vistas": 1100,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/C_NMaiwkbEQ/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCXOYJ47yHDHaU37z50xxvC6Bx3-g&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/C_NMaiwkbEQ/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCgqxr5bcEy-YoqNGmFJPMaCu20qQ&usqp=CCk"
         },
         {
             "id": "wVXHpDAg6io",
@@ -453,7 +462,7 @@
             "vistas": 3200,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/wVXHpDAg6io/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLA00RdAklnM2JD_ByxA9IY2xSWKtw&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/wVXHpDAg6io/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLC8r1_HYKSH6wzQleNq2rqyxw_wIQ&usqp=CCk"
         },
         {
             "id": "CP2zSVGuty0",
