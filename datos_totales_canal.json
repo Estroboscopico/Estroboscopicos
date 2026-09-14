@@ -1,8 +1,17 @@
 {
     "canal": "ESTROBOSCOPICOS",
     "url_canal": "https://www.youtube.com/@ESTROBOSCOPICOS",
-    "suscriptores": 102,
+    "suscriptores": 105,
     "videos_largos": [
+        {
+            "id": "ol1tXWfXcJw",
+            "titulo": "Mass. Weight or mass? The big deception ⚖️ #Physics #Mass #Inertia #HiggsField #sciencecommunication",
+            "url": "https://www.youtube.com/watch?v=ol1tXWfXcJw",
+            "vistas": 3,
+            "duracion": 411,
+            "fecha_publicacion": null,
+            "miniatura": "https://i.ytimg.com/vi/ol1tXWfXcJw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArAHyHG0N8GrbR-meExn_R3zKPAg"
+        },
         {
             "id": "GJDlwIL9a-o",
             "titulo": "¡Terremoto! ¿Sobreviviremos? #Ciencia #Terremotos #Geología #Física #Curiosidades",
@@ -90,7 +99,7 @@
             "id": "apPEQU4OR80",
             "titulo": "The African Plate is Pushing #Physics #Earthquakes #Granada #Geology #Seismology #Geophysics #Shorts",
             "url": "https://www.youtube.com/shorts/apPEQU4OR80",
-            "vistas": 691,
+            "vistas": 1000,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/apPEQU4OR80/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLA2CEGpf-1RM5wt5tIg_lXdEsCRxQ"
@@ -144,7 +153,7 @@
             "id": "V0W63RiV54A",
             "titulo": "Mercalli Scale #Physics #Earthquakes #MercalliScale #Seismology #Science #Geophysics #Shorts",
             "url": "https://www.youtube.com/shorts/V0W63RiV54A",
-            "vistas": 864,
+            "vistas": 865,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/V0W63RiV54A/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDGFl_jvf2Nl-aImiwvrVaoXYEQKw"
@@ -153,7 +162,7 @@
             "id": "QoRiAZWIBKY",
             "titulo": "Goodbye Richter: The Real Physics Calculation That Measures Earth's Fury #Physics #RichterScale",
             "url": "https://www.youtube.com/shorts/QoRiAZWIBKY",
-            "vistas": 380,
+            "vistas": 381,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/QoRiAZWIBKY/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBpSg9D5S6UAEGPf8FZt5OmrxyoSA"
@@ -363,7 +372,7 @@
             "vistas": 326,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/jZe0ocaNvyo/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBSx5ltgWSnA9je4oOhyDbBKlbe2Q&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/jZe0ocaNvyo/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBiRneHOhhqfRR_POZLZsRcefzTqA&usqp=CCk"
         },
         {
             "id": "-OM24VEzSSQ",
@@ -381,7 +390,7 @@
             "vistas": 1700,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/-oWnhZGSYFA/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDuam-MEeiu2EdUfLtGwp9ws63VKw&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/-oWnhZGSYFA/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBhvyFU-uTqDFlI4rE05w5XVSnRxA&usqp=CCk"
         },
         {
             "id": "qr8Z1vbB4Ms",
@@ -399,7 +408,7 @@
             "vistas": 545,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/wF9n09BYKMc/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDCqovGhvPHSfwws_dduoSTBsfRDg&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/wF9n09BYKMc/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCiQHIVlWT6MOsKxwuFh8a9SBN41w&usqp=CCk"
         },
         {
             "id": "r2gdRkmcyfY",
@@ -426,7 +435,7 @@
             "vistas": 1600,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/7rxwkHH23cU/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDJMOSQ0cGJnFsRNSIH_iQsXf79IQ&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/7rxwkHH23cU/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLC7wAGuWsXPhsiQzJhVSSfrBxJ_vg&usqp=CCk"
         },
         {
             "id": "LOTxItFYc30",
@@ -435,7 +444,7 @@
             "vistas": 1400,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/LOTxItFYc30/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBDzBJMSfP4cPw6-HfhfINzm0L-nw&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/LOTxItFYc30/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBaYP_yKNKG20vthhlqiKr89Fwu4Q&usqp=CCk"
         },
         {
             "id": "DeoAbEV-v0U",
@@ -444,7 +453,7 @@
             "vistas": 1000,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/DeoAbEV-v0U/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAy3jsNxDLNgUVYbv8oDAdZEiWbVA&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/DeoAbEV-v0U/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBuiPDzElnRGhJdWGbmuY_igC5e3Q&usqp=CCk"
         },
         {
             "id": "C_NMaiwkbEQ",
@@ -453,7 +462,7 @@
             "vistas": 1100,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/C_NMaiwkbEQ/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCgqxr5bcEy-YoqNGmFJPMaCu20qQ&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/C_NMaiwkbEQ/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCXOYJ47yHDHaU37z50xxvC6Bx3-g&usqp=CCk"
         },
         {
             "id": "wVXHpDAg6io",
@@ -462,7 +471,7 @@
             "vistas": 3200,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/wVXHpDAg6io/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLC8r1_HYKSH6wzQleNq2rqyxw_wIQ&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/wVXHpDAg6io/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDixpgb5jA2YMffMpsQrE0jPbQx8A&usqp=CCk"
         },
         {
             "id": "CP2zSVGuty0",
@@ -475,6 +484,12 @@
         }
     ],
     "listas": [
+        {
+            "id_lista": "PLKSrXOM0iqdw",
+            "titulo": "Conceptos básicos para entender las fórmulas",
+            "url": "https://www.youtube.com/playlist?list=PLKSrXOM0iqdw",
+            "cantidad_videos": 0
+        },
         {
             "id_lista": "PLAK5CgKKgzjg",
             "titulo": "Eventos Físicos en nuestro planeta",
