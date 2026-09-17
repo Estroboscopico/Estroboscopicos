@@ -1,13 +1,13 @@
 {
     "canal": "ESTROBOSCOPICOS",
     "url_canal": "https://www.youtube.com/@ESTROBOSCOPICOS",
-    "suscriptores": 108,
+    "suscriptores": 111,
     "videos_largos": [
         {
             "id": "ol1tXWfXcJw",
             "titulo": "Mass. Weight or mass? The big deception ⚖️ #Physics #Mass #Inertia #HiggsField #sciencecommunication",
             "url": "https://www.youtube.com/watch?v=ol1tXWfXcJw",
-            "vistas": 6,
+            "vistas": 9,
             "duracion": 411,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/ol1tXWfXcJw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArAHyHG0N8GrbR-meExn_R3zKPAg"
@@ -96,10 +96,19 @@
     ],
     "shorts": [
         {
+            "id": "jRsP0yEz1WE",
+            "titulo": "Earthquake-Resistant Architecture #Physics #CivilEngineering #Earthquakes #Science #ScienceCommun...",
+            "url": "https://www.youtube.com/shorts/jRsP0yEz1WE",
+            "vistas": 1700,
+            "duracion": null,
+            "fecha_publicacion": null,
+            "miniatura": "https://i.ytimg.com/vi/jRsP0yEz1WE/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLC409jkdPmsBNGB4aQkU_D0JPmLCQ"
+        },
+        {
             "id": "3MhVyfpJfKU",
             "titulo": "The horror movie phenomenon #Physics #Liquefaction #Earthquakes #CivilEngineering #Geophysics",
             "url": "https://www.youtube.com/shorts/3MhVyfpJfKU",
-            "vistas": 1200,
+            "vistas": 1300,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/3MhVyfpJfKU/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCee-EO5FY5u0elQjf7RoM8ofDT2A"
@@ -108,7 +117,7 @@
             "id": "d3OxgO6YGRI",
             "titulo": "When the mountain collapses #Physics #Avalanches #Snow #Earthquakes #Geophysics #Science #Shorts",
             "url": "https://www.youtube.com/shorts/d3OxgO6YGRI",
-            "vistas": 265,
+            "vistas": 266,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/d3OxgO6YGRI/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBLWb0125J0fWzrPKI6TRYbwUlgYA"
@@ -117,7 +126,7 @@
             "id": "apPEQU4OR80",
             "titulo": "The African Plate is Pushing #Physics #Earthquakes #Granada #Geology #Seismology #Geophysics #Shorts",
             "url": "https://www.youtube.com/shorts/apPEQU4OR80",
-            "vistas": 1100,
+            "vistas": 1200,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/apPEQU4OR80/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLA2CEGpf-1RM5wt5tIg_lXdEsCRxQ"
@@ -171,7 +180,7 @@
             "id": "V0W63RiV54A",
             "titulo": "Mercalli Scale #Physics #Earthquakes #MercalliScale #Seismology #Science #Geophysics #Shorts",
             "url": "https://www.youtube.com/shorts/V0W63RiV54A",
-            "vistas": 864,
+            "vistas": 865,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/V0W63RiV54A/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDGFl_jvf2Nl-aImiwvrVaoXYEQKw"
@@ -180,7 +189,7 @@
             "id": "QoRiAZWIBKY",
             "titulo": "Goodbye Richter: The Real Physics Calculation That Measures Earth's Fury #Physics #RichterScale",
             "url": "https://www.youtube.com/shorts/QoRiAZWIBKY",
-            "vistas": 382,
+            "vistas": 384,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/QoRiAZWIBKY/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBpSg9D5S6UAEGPf8FZt5OmrxyoSA"
@@ -207,7 +216,7 @@
             "id": "hQpw1nlqJe0",
             "titulo": "Cuando la Tierra se dibuja a sí misma #Física #Sismógrafo ##Inercia #DivulgaciónCientífica #Shorts",
             "url": "https://www.youtube.com/shorts/hQpw1nlqJe0",
-            "vistas": 986,
+            "vistas": 987,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/hQpw1nlqJe0/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAdfzzAudjvZxD68sls7m3N0cHpxA"
@@ -387,10 +396,10 @@
             "id": "jZe0ocaNvyo",
             "titulo": "Ejemplos de cambio #derivada  #ciencia",
             "url": "https://www.youtube.com/shorts/jZe0ocaNvyo",
-            "vistas": 326,
+            "vistas": 327,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/jZe0ocaNvyo/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCGjywUSUo6CeAeVTxi9LX4n7lNSw&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/jZe0ocaNvyo/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBiRneHOhhqfRR_POZLZsRcefzTqA&usqp=CCk"
         },
         {
             "id": "-OM24VEzSSQ",
@@ -408,7 +417,7 @@
             "vistas": 1700,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/-oWnhZGSYFA/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDuam-MEeiu2EdUfLtGwp9ws63VKw&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/-oWnhZGSYFA/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBhvyFU-uTqDFlI4rE05w5XVSnRxA&usqp=CCk"
         },
         {
             "id": "qr8Z1vbB4Ms",
@@ -426,7 +435,7 @@
             "vistas": 545,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/wF9n09BYKMc/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAMusQOKmrxqAKg1sRW1wXJ4HGtpQ&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/wF9n09BYKMc/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCiQHIVlWT6MOsKxwuFh8a9SBN41w&usqp=CCk"
         },
         {
             "id": "r2gdRkmcyfY",
@@ -435,7 +444,7 @@
             "vistas": 871,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/r2gdRkmcyfY/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBK29PokuvA4yLFs7_Yj7fOnFVEdg&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/r2gdRkmcyfY/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDQWCOcPYfLkFkxj8jzzkmD23jWTg&usqp=CCk"
         },
         {
             "id": "hhoMwuiQres",
@@ -453,7 +462,7 @@
             "vistas": 1600,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/7rxwkHH23cU/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDJMOSQ0cGJnFsRNSIH_iQsXf79IQ&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/7rxwkHH23cU/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCG73aWfsZj-7A40D4YntEfSBjl8g&usqp=CCk"
         },
         {
             "id": "LOTxItFYc30",
@@ -462,7 +471,7 @@
             "vistas": 1400,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/LOTxItFYc30/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBDzBJMSfP4cPw6-HfhfINzm0L-nw&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/LOTxItFYc30/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBaYP_yKNKG20vthhlqiKr89Fwu4Q&usqp=CCk"
         },
         {
             "id": "DeoAbEV-v0U",
@@ -471,7 +480,7 @@
             "vistas": 1000,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/DeoAbEV-v0U/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBuiPDzElnRGhJdWGbmuY_igC5e3Q&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/DeoAbEV-v0U/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAy3jsNxDLNgUVYbv8oDAdZEiWbVA&usqp=CCk"
         },
         {
             "id": "C_NMaiwkbEQ",
