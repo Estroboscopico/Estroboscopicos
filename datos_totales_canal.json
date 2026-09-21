@@ -1,13 +1,13 @@
 {
     "canal": "ESTROBOSCOPICOS",
     "url_canal": "https://www.youtube.com/@ESTROBOSCOPICOS",
-    "suscriptores": 113,
+    "suscriptores": 116,
     "videos_largos": [
         {
             "id": "b0IWmGF_le0",
-            "titulo": "DANA #Physics #DANA #Meteorology #NavierStokes #Thermodynamics #Science #ScienceCommunication #Cl...",
+            "titulo": "The Day the Atmosphere Broke Mathematics: The Hidden Truth About the DANA #NavierStokes #DANA",
             "url": "https://www.youtube.com/watch?v=b0IWmGF_le0",
-            "vistas": 9,
+            "vistas": 14,
             "duracion": 1455,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/b0IWmGF_le0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL3iWbe1b3vMTsY8ay2kftKLE1eQ"
@@ -105,10 +105,19 @@
     ],
     "shorts": [
         {
+            "id": "ofEN7n_rw14",
+            "titulo": "How does Mars shake if it has no tectonic plates? 🔴🪐",
+            "url": "https://www.youtube.com/shorts/ofEN7n_rw14",
+            "vistas": 1100,
+            "duracion": null,
+            "fecha_publicacion": null,
+            "miniatura": "https://i.ytimg.com/vi/ofEN7n_rw14/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCTFhinW1T5fpwWswf9sZG4RanYxg"
+        },
+        {
             "id": "dPgI8JJY5Qc",
             "titulo": "Passengers on a biological spaceship #Physics #PlateTectonics #Earthquakes #science #shorts",
             "url": "https://www.youtube.com/shorts/dPgI8JJY5Qc",
-            "vistas": 180,
+            "vistas": 185,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/dPgI8JJY5Qc/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLB3zBCZEjAj9-larIbHP5YQElnoWA"
@@ -117,7 +126,7 @@
             "id": "ePxYxP2h658",
             "titulo": "Physics and Engineering overcome the fury of the Earth #Physics #Earthquakes #Seismology #Geophys...",
             "url": "https://www.youtube.com/shorts/ePxYxP2h658",
-            "vistas": 237,
+            "vistas": 223,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/ePxYxP2h658/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCYcaV4PDS-oGOib9DjlbcnIv2xXw"
@@ -126,7 +135,7 @@
             "id": "pYbGrryykqM",
             "titulo": "Dancing to the Rhythm of Tectonic Faults #Physics #CivilEngineering #BaseIsolation #Earthquakes",
             "url": "https://www.youtube.com/shorts/pYbGrryykqM",
-            "vistas": 405,
+            "vistas": 399,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/pYbGrryykqM/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLB_18LUK-I5sXOxxO5kN1_sgblPNQ"
@@ -151,9 +160,9 @@
         },
         {
             "id": "d3OxgO6YGRI",
-            "titulo": "Cuando la montaña se viene abajo #Física #Avalanchas #Nieve #Terremotos #Geofísica #Ciencia #Shorts",
+            "titulo": "When the mountain collapses #Physics #Avalanches #Snow #Earthquakes #Geophysics #Science #Shorts",
             "url": "https://www.youtube.com/shorts/d3OxgO6YGRI",
-            "vistas": 266,
+            "vistas": 265,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/d3OxgO6YGRI/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBLWb0125J0fWzrPKI6TRYbwUlgYA"
@@ -480,7 +489,7 @@
             "vistas": 871,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/r2gdRkmcyfY/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBK29PokuvA4yLFs7_Yj7fOnFVEdg&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/r2gdRkmcyfY/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDQFeNOSMayNq_Gqty9kZu_AWy6Sw&usqp=CCk"
         },
         {
             "id": "hhoMwuiQres",
@@ -498,7 +507,7 @@
             "vistas": 1600,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/7rxwkHH23cU/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCG73aWfsZj-7A40D4YntEfSBjl8g&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/7rxwkHH23cU/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDJMOSQ0cGJnFsRNSIH_iQsXf79IQ&usqp=CCk"
         },
         {
             "id": "LOTxItFYc30",
@@ -507,7 +516,7 @@
             "vistas": 1400,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/LOTxItFYc30/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCYZId0UMiH_N_JOGv8AOKpvtmdOA&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/LOTxItFYc30/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBDzBJMSfP4cPw6-HfhfINzm0L-nw&usqp=CCk"
         },
         {
             "id": "DeoAbEV-v0U",
@@ -525,7 +534,7 @@
             "vistas": 1100,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/C_NMaiwkbEQ/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCgqxr5bcEy-YoqNGmFJPMaCu20qQ&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/C_NMaiwkbEQ/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCXOYJ47yHDHaU37z50xxvC6Bx3-g&usqp=CCk"
         },
         {
             "id": "wVXHpDAg6io",
@@ -534,7 +543,7 @@
             "vistas": 3200,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/wVXHpDAg6io/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLA00RdAklnM2JD_ByxA9IY2xSWKtw&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/wVXHpDAg6io/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLC8r1_HYKSH6wzQleNq2rqyxw_wIQ&usqp=CCk"
         },
         {
             "id": "CP2zSVGuty0",
