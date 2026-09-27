@@ -1,22 +1,22 @@
 {
     "canal": "ESTROBOSCOPICOS",
     "url_canal": "https://www.youtube.com/@ESTROBOSCOPICOS",
-    "suscriptores": 124,
+    "suscriptores": 126,
     "videos_largos": [
         {
             "id": "b0IWmGF_le0",
             "titulo": "The Day the Atmosphere Broke Mathematics: The Hidden Truth About the DANA #NavierStokes #DANA",
             "url": "https://www.youtube.com/watch?v=b0IWmGF_le0",
-            "vistas": 80,
+            "vistas": 85,
             "duracion": 1455,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi_lc/b0IWmGF_le0/hq720_en-US.jpg?sqp=CID33dUG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9iMElXbUdGX2xlMC9ocWRlZmF1bHQuanBn&rs=AOn4CLAoDhUGBglSuzEkk8Mb8TflFczY_g"
+            "miniatura": "https://i.ytimg.com/vi_lc/b0IWmGF_le0/hq720_en-US.jpg?sqp=CLSq49UG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9iMElXbUdGX2xlMC9ocWRlZmF1bHQuanBn&rs=AOn4CLAWQfmnE_3BSLlvUx70KNJByY5vPg"
         },
         {
             "id": "ol1tXWfXcJw",
             "titulo": "Mass. Weight or mass? The big deception ⚖️ #Physics #Mass #Inertia #HiggsField #sciencecommunication",
             "url": "https://www.youtube.com/watch?v=ol1tXWfXcJw",
-            "vistas": 15,
+            "vistas": 16,
             "duracion": 411,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/ol1tXWfXcJw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArAHyHG0N8GrbR-meExn_R3zKPAg"
@@ -28,7 +28,7 @@
             "vistas": 1300,
             "duracion": 1793,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi_lc/GJDlwIL9a-o/hq720_en.jpg?sqp=CID33dUG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9HSkRsd0lMOWEtby9ocWRlZmF1bHQuanBn&rs=AOn4CLAJj2YCjfefn8XA4WPi0YvuWNtvxQ"
+            "miniatura": "https://i.ytimg.com/vi_lc/GJDlwIL9a-o/hq720_en.jpg?sqp=CLSq49UG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9HSkRsd0lMOWEtby9ocWRlZmF1bHQuanBn&rs=AOn4CLB-TAYxIHHnwnHJ31GUa07PgcuOeA"
         },
         {
             "id": "ilHlB9gLDxo",
@@ -100,15 +100,24 @@
             "vistas": 89,
             "duracion": 348,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi_lc/3XotsVVBm-A/hq720_en.jpg?sqp=CID33dUG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8zWG90c1ZWQm0tQS9ocWRlZmF1bHQuanBn&rs=AOn4CLC4jC7r_fCkNb-btU1TuW3xLKjCow"
+            "miniatura": "https://i.ytimg.com/vi_lc/3XotsVVBm-A/hq720_en.jpg?sqp=CLSq49UG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8zWG90c1ZWQm0tQS9ocWRlZmF1bHQuanBn&rs=AOn4CLDMxDWhY0fsSkctZ1RzB1MB9SRoLA"
         }
     ],
     "shorts": [
         {
+            "id": "e5jQ2XIlqNo",
+            "titulo": "When Atmospheric Math Breaks: The Mystery of CAPE and Navier-Stokes #NavierStokes",
+            "url": "https://www.youtube.com/shorts/e5jQ2XIlqNo",
+            "vistas": 67,
+            "duracion": null,
+            "fecha_publicacion": null,
+            "miniatura": "https://i.ytimg.com/vi/e5jQ2XIlqNo/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDfeWMImq_xMLd7Q1mrPQIBLrUyMg"
+        },
+        {
             "id": "7JRYyskvpkw",
             "titulo": "Algorithmic Espionage #Mathematics #NavierStokes #ArtificialIntelligence #Physics #Science #Algor...",
             "url": "https://www.youtube.com/shorts/7JRYyskvpkw",
-            "vistas": 85,
+            "vistas": 233,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/7JRYyskvpkw/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDuaYBd4aOBWCWFLQIH0YfDuA1hBQ"
@@ -117,7 +126,7 @@
             "id": "XEwpv5qHshs",
             "titulo": "The sky highway that loses control: what is the jet stream?🌬️🛣️ #Physics #JetStream",
             "url": "https://www.youtube.com/shorts/XEwpv5qHshs",
-            "vistas": 728,
+            "vistas": 1200,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/XEwpv5qHshs/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBjECkTm0qsCFXAwuNscU0mNJPNjQ"
@@ -126,7 +135,7 @@
             "id": "tYIQ_7oAokU",
             "titulo": "When the Sky Becomes a Weapon: The Lethal Physics of a DANA ⛈️🌪️ #DANA #Meteorology",
             "url": "https://www.youtube.com/shorts/tYIQ_7oAokU",
-            "vistas": 96,
+            "vistas": 111,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/tYIQ_7oAokU/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBCpavyLU6w12GT5ksJtow_hNbW8A"
@@ -135,7 +144,7 @@
             "id": "CCgSPUYpEqI",
             "titulo": "The invisible river of air: the brutal collision that unleashes chaos🌪️❄️ #Meteorology #JetStream",
             "url": "https://www.youtube.com/shorts/CCgSPUYpEqI",
-            "vistas": 398,
+            "vistas": 403,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/CCgSPUYpEqI/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBjfouGuwVvd2lSsw_EWQ0hIyI3Ug"
@@ -144,7 +153,7 @@
             "id": "Ed30Uz2faVA",
             "titulo": "Debunking the Scale Myth: What Is Mass, Really? ⚖️🚀 #Physics #Mass #Inertia #Gravity",
             "url": "https://www.youtube.com/shorts/Ed30Uz2faVA",
-            "vistas": 143,
+            "vistas": 147,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/Ed30Uz2faVA/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDqVbKR7CebH8AChoAeavdMMacpIA"
@@ -153,7 +162,7 @@
             "id": "Nnn2OBsOJk4",
             "titulo": "The Illusion of the Senses: What Happens When You Try to Stop an Object in Zero Gravity",
             "url": "https://www.youtube.com/shorts/Nnn2OBsOJk4",
-            "vistas": 543,
+            "vistas": 549,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/Nnn2OBsOJk4/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDOtD3Q8OxB1Xdw-tNpG3vma20DTg"
@@ -171,7 +180,7 @@
             "id": "dPgI8JJY5Qc",
             "titulo": "Passengers on a biological spaceship #Physics #PlateTectonics #Earthquakes #science #shorts",
             "url": "https://www.youtube.com/shorts/dPgI8JJY5Qc",
-            "vistas": 181,
+            "vistas": 186,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/dPgI8JJY5Qc/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLB3zBCZEjAj9-larIbHP5YQElnoWA"
@@ -180,7 +189,7 @@
             "id": "ePxYxP2h658",
             "titulo": "Physics and Engineering overcome the fury of the Earth #Physics #Earthquakes #Seismology #Geophys...",
             "url": "https://www.youtube.com/shorts/ePxYxP2h658",
-            "vistas": 223,
+            "vistas": 227,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/ePxYxP2h658/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCYcaV4PDS-oGOib9DjlbcnIv2xXw"
@@ -189,7 +198,7 @@
             "id": "pYbGrryykqM",
             "titulo": "Dancing to the Rhythm of Tectonic Faults #Physics #CivilEngineering #BaseIsolation #Earthquakes",
             "url": "https://www.youtube.com/shorts/pYbGrryykqM",
-            "vistas": 397,
+            "vistas": 401,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/pYbGrryykqM/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLB_18LUK-I5sXOxxO5kN1_sgblPNQ"
@@ -216,7 +225,7 @@
             "id": "d3OxgO6YGRI",
             "titulo": "When the mountain collapses #Physics #Avalanches #Snow #Earthquakes #Geophysics #Science #Shorts",
             "url": "https://www.youtube.com/shorts/d3OxgO6YGRI",
-            "vistas": 266,
+            "vistas": 270,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/d3OxgO6YGRI/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBLWb0125J0fWzrPKI6TRYbwUlgYA"
@@ -243,7 +252,7 @@
             "id": "TOq_1toc4zs",
             "titulo": "Why does Mexico City shake like a giant flan? 🍮🌍 #Science #ScientificCommunication",
             "url": "https://www.youtube.com/shorts/TOq_1toc4zs",
-            "vistas": 1000,
+            "vistas": 1100,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/TOq_1toc4zs/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDwaLQaBFKk-4TSe27AUgu1SbygSA"
@@ -498,7 +507,7 @@
             "vistas": 327,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/jZe0ocaNvyo/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBSx5ltgWSnA9je4oOhyDbBKlbe2Q&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/jZe0ocaNvyo/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBiRneHOhhqfRR_POZLZsRcefzTqA&usqp=CCk"
         },
         {
             "id": "-OM24VEzSSQ",
@@ -540,10 +549,10 @@
             "id": "r2gdRkmcyfY",
             "titulo": "Galileo Galilei y descubrimiento con el telescopio #galileo #physics #fisica #historia",
             "url": "https://www.youtube.com/shorts/r2gdRkmcyfY",
-            "vistas": 871,
+            "vistas": 872,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/r2gdRkmcyfY/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBK29PokuvA4yLFs7_Yj7fOnFVEdg&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/r2gdRkmcyfY/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDQFeNOSMayNq_Gqty9kZu_AWy6Sw&usqp=CCk"
         },
         {
             "id": "hhoMwuiQres",
@@ -561,7 +570,7 @@
             "vistas": 1600,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/7rxwkHH23cU/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCG73aWfsZj-7A40D4YntEfSBjl8g&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/7rxwkHH23cU/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDJMOSQ0cGJnFsRNSIH_iQsXf79IQ&usqp=CCk"
         },
         {
             "id": "LOTxItFYc30",
@@ -588,7 +597,7 @@
             "vistas": 1100,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/C_NMaiwkbEQ/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCXOYJ47yHDHaU37z50xxvC6Bx3-g&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/C_NMaiwkbEQ/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCgqxr5bcEy-YoqNGmFJPMaCu20qQ&usqp=CCk"
         },
         {
             "id": "wVXHpDAg6io",
