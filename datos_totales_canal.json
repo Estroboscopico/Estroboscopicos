@@ -4,19 +4,28 @@
     "suscriptores": 128,
     "videos_largos": [
         {
+            "id": "yCeRm4eMpAs",
+            "titulo": "The Only Equation That Changed the Universe: F = ma and Newton's Laws",
+            "url": "https://www.youtube.com/watch?v=yCeRm4eMpAs",
+            "vistas": 5,
+            "duracion": 398,
+            "fecha_publicacion": null,
+            "miniatura": "https://i.ytimg.com/vi_lc/yCeRm4eMpAs/hq720_en-US.jpg?sqp=COiA7tUG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS95Q2VSbTRlTXBBcy9ocWRlZmF1bHQuanBn&rs=AOn4CLCX2RffRWWssiDXG6qPR1u-ZhdnNw"
+        },
+        {
             "id": "b0IWmGF_le0",
             "titulo": "The Day the Atmosphere Broke Mathematics: The Hidden Truth About the DANA #NavierStokes #DANA",
             "url": "https://www.youtube.com/watch?v=b0IWmGF_le0",
-            "vistas": 92,
+            "vistas": 102,
             "duracion": 1455,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi_lc/b0IWmGF_le0/hq720_en-US.jpg?sqp=CJDZ6NUG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9iMElXbUdGX2xlMC9ocWRlZmF1bHQuanBn&rs=AOn4CLBAf-3ypqWdVrBVVPTtTo3qWhH4uQ"
+            "miniatura": "https://i.ytimg.com/vi_lc/b0IWmGF_le0/hq720_en-US.jpg?sqp=COiA7tUG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9iMElXbUdGX2xlMC9ocWRlZmF1bHQuanBn&rs=AOn4CLCSmcI1AxbLGgFldSJPd2juZ2iMcw"
         },
         {
             "id": "ol1tXWfXcJw",
             "titulo": "Mass. Weight or mass? The big deception ⚖️ #Physics #Mass #Inertia #HiggsField #sciencecommunication",
             "url": "https://www.youtube.com/watch?v=ol1tXWfXcJw",
-            "vistas": 19,
+            "vistas": 21,
             "duracion": 411,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/ol1tXWfXcJw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArAHyHG0N8GrbR-meExn_R3zKPAg"
@@ -28,7 +37,7 @@
             "vistas": 1300,
             "duracion": 1793,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi_lc/GJDlwIL9a-o/hq720_en.jpg?sqp=CJDZ6NUG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9HSkRsd0lMOWEtby9ocWRlZmF1bHQuanBn&rs=AOn4CLDNLqZdFZiKZNGx5DjN7XM-yFUdng"
+            "miniatura": "https://i.ytimg.com/vi_lc/GJDlwIL9a-o/hq720_en.jpg?sqp=COiA7tUG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9HSkRsd0lMOWEtby9ocWRlZmF1bHQuanBn&rs=AOn4CLBOxUwd8RQuwtA_N_FsklrRjP-97w"
         },
         {
             "id": "ilHlB9gLDxo",
@@ -100,7 +109,7 @@
             "vistas": 89,
             "duracion": 348,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi_lc/3XotsVVBm-A/hq720_en.jpg?sqp=CJDZ6NUG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8zWG90c1ZWQm0tQS9ocWRlZmF1bHQuanBn&rs=AOn4CLBUJmS6BrCpuLk_mQM9s2DUhAed5g"
+            "miniatura": "https://i.ytimg.com/vi_lc/3XotsVVBm-A/hq720_en.jpg?sqp=COiA7tUG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8zWG90c1ZWQm0tQS9ocWRlZmF1bHQuanBn&rs=AOn4CLDLqpS-7TrzRckYMZURFNM9YWvx5g"
         }
     ],
     "shorts": [
@@ -108,7 +117,7 @@
             "id": "a4e_Eq0pNqU",
             "titulo": "This Is How the Jet Stream Gets Choked Off 🚒💨#Physics #Meteorology #JetStream #FluidDynamics #Sci...",
             "url": "https://www.youtube.com/shorts/a4e_Eq0pNqU",
-            "vistas": 300,
+            "vistas": 414,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/a4e_Eq0pNqU/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLA9QZtANGKuXQLiv87WCM7FQCW3Vg"
@@ -117,7 +126,7 @@
             "id": "e5jQ2XIlqNo",
             "titulo": "When Atmospheric Math Breaks: The Mystery of CAPE and Navier-Stokes #NavierStokes",
             "url": "https://www.youtube.com/shorts/e5jQ2XIlqNo",
-            "vistas": 133,
+            "vistas": 147,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/e5jQ2XIlqNo/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDfeWMImq_xMLd7Q1mrPQIBLrUyMg"
@@ -126,7 +135,7 @@
             "id": "7JRYyskvpkw",
             "titulo": "Algorithmic Espionage #Mathematics #NavierStokes #ArtificialIntelligence #Physics #Science #Algor...",
             "url": "https://www.youtube.com/shorts/7JRYyskvpkw",
-            "vistas": 367,
+            "vistas": 371,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/7JRYyskvpkw/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDuaYBd4aOBWCWFLQIH0YfDuA1hBQ"
@@ -187,7 +196,7 @@
         },
         {
             "id": "dPgI8JJY5Qc",
-            "titulo": "Passengers on a biological spaceship #Physics #PlateTectonics #Earthquakes #science #shorts",
+            "titulo": "Pasajeros en una nave espacial biológica  #Física #TectónicaDePlacas #Terremotos #ciencia #shorts",
             "url": "https://www.youtube.com/shorts/dPgI8JJY5Qc",
             "vistas": 186,
             "duracion": null,
@@ -207,7 +216,7 @@
             "id": "pYbGrryykqM",
             "titulo": "Dancing to the Rhythm of Tectonic Faults #Physics #CivilEngineering #BaseIsolation #Earthquakes",
             "url": "https://www.youtube.com/shorts/pYbGrryykqM",
-            "vistas": 402,
+            "vistas": 403,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/pYbGrryykqM/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLB_18LUK-I5sXOxxO5kN1_sgblPNQ"
@@ -232,7 +241,7 @@
         },
         {
             "id": "d3OxgO6YGRI",
-            "titulo": "When the mountain collapses #Physics #Avalanches #Snow #Earthquakes #Geophysics #Science #Shorts",
+            "titulo": "Cuando la montaña se viene abajo #Física #Avalanchas #Nieve #Terremotos #Geofísica #Ciencia #Shorts",
             "url": "https://www.youtube.com/shorts/d3OxgO6YGRI",
             "vistas": 270,
             "duracion": null,
@@ -378,7 +387,7 @@
             "id": "7mSHtgjw1qM",
             "titulo": "¿La Tierra es una LENTE GIGANTE? 🌍🔍     #Shorts #Ciencia #Física #Geología #Terremotos #Curiosidades",
             "url": "https://www.youtube.com/shorts/7mSHtgjw1qM",
-            "vistas": 943,
+            "vistas": 944,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/7mSHtgjw1qM/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBo-2yXfeHEWma1zxuFBvfs_zuyyQ"
@@ -477,7 +486,7 @@
             "id": "hIlASKnm8s8",
             "titulo": "¿Qué es un Vector? #vector #vectores #fisica #vectors",
             "url": "https://www.youtube.com/shorts/hIlASKnm8s8",
-            "vistas": 189,
+            "vistas": 190,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/hIlASKnm8s8/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAhzCXa98_2yt14Jf1MHGZq7zCz6g"
@@ -516,7 +525,7 @@
             "vistas": 327,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/jZe0ocaNvyo/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBiRneHOhhqfRR_POZLZsRcefzTqA&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/jZe0ocaNvyo/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBSx5ltgWSnA9je4oOhyDbBKlbe2Q&usqp=CCk"
         },
         {
             "id": "-OM24VEzSSQ",
@@ -561,7 +570,7 @@
             "vistas": 872,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/r2gdRkmcyfY/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDQWCOcPYfLkFkxj8jzzkmD23jWTg&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/r2gdRkmcyfY/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBK29PokuvA4yLFs7_Yj7fOnFVEdg&usqp=CCk"
         },
         {
             "id": "hhoMwuiQres",
@@ -597,7 +606,7 @@
             "vistas": 1000,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/DeoAbEV-v0U/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAy3jsNxDLNgUVYbv8oDAdZEiWbVA&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/DeoAbEV-v0U/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDzvFqxQ6nHkcbBsFh2FikIoA6szg&usqp=CCk"
         },
         {
             "id": "C_NMaiwkbEQ",
@@ -606,7 +615,7 @@
             "vistas": 1100,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/C_NMaiwkbEQ/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBCxgwFv0r2d24ZrA3Qd9PR6zh0yg&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/C_NMaiwkbEQ/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCgqxr5bcEy-YoqNGmFJPMaCu20qQ&usqp=CCk"
         },
         {
             "id": "wVXHpDAg6io",
@@ -615,7 +624,7 @@
             "vistas": 3200,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/wVXHpDAg6io/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDixpgb5jA2YMffMpsQrE0jPbQx8A&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/wVXHpDAg6io/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLA00RdAklnM2JD_ByxA9IY2xSWKtw&usqp=CCk"
         },
         {
             "id": "CP2zSVGuty0",
@@ -638,12 +647,6 @@
             "id_lista": "PLAK5CgKKgzjg",
             "titulo": "Eventos Físicos en nuestro planeta",
             "url": "https://www.youtube.com/playlist?list=PLAK5CgKKgzjg",
-            "cantidad_videos": 0
-        },
-        {
-            "id_lista": "PLbRb-7cNuptE",
-            "titulo": "APPs para interiorizar conceptos explicados en los videos",
-            "url": "https://www.youtube.com/playlist?list=PLbRb-7cNuptE",
             "cantidad_videos": 0
         },
         {
