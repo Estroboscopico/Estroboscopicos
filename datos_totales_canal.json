@@ -1,25 +1,25 @@
 {
     "canal": "ESTROBOSCOPICOS",
     "url_canal": "https://www.youtube.com/@ESTROBOSCOPICOS",
-    "suscriptores": 134,
+    "suscriptores": 136,
     "videos_largos": [
         {
             "id": "yCeRm4eMpAs",
             "titulo": "If the monkey falls... why does the bullet hit it? #Newton #LeyesDeNewton #Ciencia #Galileo",
             "url": "https://www.youtube.com/watch?v=yCeRm4eMpAs",
-            "vistas": 17,
+            "vistas": 20,
             "duracion": 398,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi_lc/yCeRm4eMpAs/hq720_en-US.jpg?sqp=CPDgjdYG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS95Q2VSbTRlTXBBcy9ocWRlZmF1bHQuanBn&rs=AOn4CLDXDRHEbLvdwjsx1z_UFNkHp27JWg"
+            "miniatura": "https://i.ytimg.com/vi_lc/yCeRm4eMpAs/hq720_en-US.jpg?sqp=CJj_ktYG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS95Q2VSbTRlTXBBcy9ocWRlZmF1bHQuanBn&rs=AOn4CLBrx_wx7I3gx71NbouOOYQwLZ6OPQ"
         },
         {
             "id": "b0IWmGF_le0",
             "titulo": "The Day the Atmosphere Broke Mathematics: The Hidden Truth About the DANA #NavierStokes #DANA",
             "url": "https://www.youtube.com/watch?v=b0IWmGF_le0",
-            "vistas": 183,
+            "vistas": 197,
             "duracion": 1455,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi_lc/b0IWmGF_le0/hq720_en-US.jpg?sqp=CPDgjdYG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9iMElXbUdGX2xlMC9ocWRlZmF1bHQuanBn&rs=AOn4CLAY3k5Xc4NiRCy7CpeWa9ysYttuFA"
+            "miniatura": "https://i.ytimg.com/vi_lc/b0IWmGF_le0/hq720_en-US.jpg?sqp=CJj_ktYG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9iMElXbUdGX2xlMC9ocWRlZmF1bHQuanBn&rs=AOn4CLC3dqQgbkCN2ok5xSn2vxfhdt5ZpA"
         },
         {
             "id": "ol1tXWfXcJw",
@@ -37,7 +37,7 @@
             "vistas": 1300,
             "duracion": 1793,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi_lc/GJDlwIL9a-o/hq720_en.jpg?sqp=CPDgjdYG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9HSkRsd0lMOWEtby9ocWRlZmF1bHQuanBn&rs=AOn4CLBusKBw0vxpwe0fjwdIVM1Un-VyVA"
+            "miniatura": "https://i.ytimg.com/vi_lc/GJDlwIL9a-o/hq720_en.jpg?sqp=CJj_ktYG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9HSkRsd0lMOWEtby9ocWRlZmF1bHQuanBn&rs=AOn4CLCyfd79AI7NOdQR5UwU-mKCS4J_oQ"
         },
         {
             "id": "ilHlB9gLDxo",
@@ -109,24 +109,33 @@
             "vistas": 90,
             "duracion": 348,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi_lc/3XotsVVBm-A/hq720_en.jpg?sqp=CPDgjdYG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8zWG90c1ZWQm0tQS9ocWRlZmF1bHQuanBn&rs=AOn4CLAGfXPDtMcNtj7xMDX078gMubF4rQ"
+            "miniatura": "https://i.ytimg.com/vi_lc/3XotsVVBm-A/hq720_en.jpg?sqp=CJj_ktYG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8zWG90c1ZWQm0tQS9ocWRlZmF1bHQuanBn&rs=AOn4CLB-PO84Kq5InScxsnG8HtkzXYXtGA"
         }
     ],
     "shorts": [
         {
+            "id": "RYRNnkwVA_Q",
+            "titulo": "The nightly terror of DANA: why the worst storms strike while you sleep 🌑⛈️#Physics #DANA",
+            "url": "https://www.youtube.com/shorts/RYRNnkwVA_Q",
+            "vistas": 188,
+            "duracion": null,
+            "fecha_publicacion": null,
+            "miniatura": "https://i.ytimg.com/vi/RYRNnkwVA_Q/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLB6c5_a5m_mILyHgzHkaIo8NNW_9A"
+        },
+        {
             "id": "q009uVXHfFA",
             "titulo": "Orographic forcing? #Geography #DANA #OrographicForcing #Levante #Meteorology #Science",
             "url": "https://www.youtube.com/shorts/q009uVXHfFA",
-            "vistas": 581,
+            "vistas": 713,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/q009uVXHfFA/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBh0gx5GiMOLA8PmCQpE2G955Hxlw"
         },
         {
             "id": "4lsyr-osfew",
-            "titulo": "What is the tropopause⚡🌪️#Physics #Tropopause #DANA #Meteorology #Stratosphere #Science #Shorts",
+            "titulo": "Tropopause folding ⚡🌪️ #Physics #Tropopause #DANA #Meteorology #Stratosphere #Science #Short",
             "url": "https://www.youtube.com/shorts/4lsyr-osfew",
-            "vistas": 11,
+            "vistas": 15,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/4lsyr-osfew/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAP8FYLpjp1_94kqk0wnnN91wppYw"
@@ -135,7 +144,7 @@
             "id": "RH9-jlVlI3w",
             "titulo": "2.5 million Joules per kilo? #Physics #LatentHeat #DANA #Thermodynamics #Meteorology #NASA",
             "url": "https://www.youtube.com/shorts/RH9-jlVlI3w",
-            "vistas": 561,
+            "vistas": 568,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/RH9-jlVlI3w/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBYyqdWb-LR5PA-DSM5ear5WQLdtQ"
@@ -144,7 +153,7 @@
             "id": "0XymUq2HJlk",
             "titulo": "Boiling oil in an ice bath: the violent physics of a DANA 🌋🧊",
             "url": "https://www.youtube.com/shorts/0XymUq2HJlk",
-            "vistas": 487,
+            "vistas": 488,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/0XymUq2HJlk/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAstmoRi5Dm9hucH5iXC7xe9JfAEQ"
@@ -153,7 +162,7 @@
             "id": "3O5A2B9a63M",
             "titulo": "Ertel's conservation?⛸️🌀#Physics #Vorticity #DANA #mathematics #manin #FluidDynamics #short",
             "url": "https://www.youtube.com/shorts/3O5A2B9a63M",
-            "vistas": 806,
+            "vistas": 808,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/3O5A2B9a63M/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCW4xyfT-JfmGVQUyYNGSd2r0DMlA"
@@ -171,7 +180,7 @@
             "id": "21FxA0LICYc",
             "titulo": "Where does the term \"cold drop\" come from? The German origin you didn't know. #Weather #DANA #Col...",
             "url": "https://www.youtube.com/shorts/21FxA0LICYc",
-            "vistas": 245,
+            "vistas": 247,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/21FxA0LICYc/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAC_xL0YOts61dg9UaCxfHSZVo6-Q"
@@ -223,7 +232,7 @@
         },
         {
             "id": "CCgSPUYpEqI",
-            "titulo": "El río de aire invisible: la brutal colisión que desata caos🌪️❄️ #Meteorología #CorrienteEnChorro",
+            "titulo": "The invisible river of air: the brutal collision that unleashes chaos🌪️❄️ #Meteorology #JetStream",
             "url": "https://www.youtube.com/shorts/CCgSPUYpEqI",
             "vistas": 408,
             "duracion": null,
@@ -279,7 +288,7 @@
             "id": "pYbGrryykqM",
             "titulo": "Dancing to the Rhythm of Tectonic Faults #Physics #CivilEngineering #BaseIsolation #Earthquakes",
             "url": "https://www.youtube.com/shorts/pYbGrryykqM",
-            "vistas": 404,
+            "vistas": 406,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/pYbGrryykqM/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLB_18LUK-I5sXOxxO5kN1_sgblPNQ"
@@ -304,7 +313,7 @@
         },
         {
             "id": "d3OxgO6YGRI",
-            "titulo": "Cuando la montaña se viene abajo #Física #Avalanchas #Nieve #Terremotos #Geofísica #Ciencia #Shorts",
+            "titulo": "When the mountain collapses #Physics #Avalanches #Snow #Earthquakes #Geophysics #Science #Shorts",
             "url": "https://www.youtube.com/shorts/d3OxgO6YGRI",
             "vistas": 270,
             "duracion": null,
@@ -385,7 +394,7 @@
         },
         {
             "id": "AglNWAEyrq0",
-            "titulo": "From 3D chaos to the exact earthquake epicenter. #Seismology #ScienceCommunication #Geophysics",
+            "titulo": "Del caos tridimensional al punto exacto del terremoto. #Sismología #DivulgaciónCientífica #Geofísica",
             "url": "https://www.youtube.com/shorts/AglNWAEyrq0",
             "vistas": 1200,
             "duracion": null,
@@ -651,7 +660,7 @@
             "vistas": 1600,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/7rxwkHH23cU/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCG73aWfsZj-7A40D4YntEfSBjl8g&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/7rxwkHH23cU/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLC7wAGuWsXPhsiQzJhVSSfrBxJ_vg&usqp=CCk"
         },
         {
             "id": "LOTxItFYc30",
@@ -678,7 +687,7 @@
             "vistas": 1100,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/C_NMaiwkbEQ/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBCxgwFv0r2d24ZrA3Qd9PR6zh0yg&usqp=CCk"
+            "miniatura": "https://i.ytimg.com/vi/C_NMaiwkbEQ/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCgqxr5bcEy-YoqNGmFJPMaCu20qQ&usqp=CCk"
         },
         {
             "id": "wVXHpDAg6io",
