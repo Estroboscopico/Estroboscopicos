@@ -4,13 +4,22 @@
     "suscriptores": 166,
     "videos_largos": [
         {
+            "id": "9IZXHOmiYlM",
+            "titulo": "The Secret War of Calculus: Newton, Leibniz, and Science's Ugliest Feud 📉⚔️ #Mathematics",
+            "url": "https://www.youtube.com/watch?v=9IZXHOmiYlM",
+            "vistas": 4,
+            "duracion": 397,
+            "fecha_publicacion": null,
+            "miniatura": "https://i.ytimg.com/vi_lc/9IZXHOmiYlM/hq720_en-US.jpg?sqp=CLy7kdcG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS85SVpYSE9taVlsTS9ocWRlZmF1bHQuanBn&rs=AOn4CLBIUdzGssdkMgg5bULZRQV8152Qng"
+        },
+        {
             "id": "yCeRm4eMpAs",
             "titulo": "If the monkey falls... why does the bullet hit it? #Newton #LeyesDeNewton #Ciencia #Galileo",
             "url": "https://www.youtube.com/watch?v=yCeRm4eMpAs",
-            "vistas": 45,
+            "vistas": 46,
             "duracion": 398,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi_lc/yCeRm4eMpAs/hq720_en-US.jpg?sqp=CJCWjNcG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS95Q2VSbTRlTXBBcy9ocWRlZmF1bHQuanBn&rs=AOn4CLCnLqvya40-xDURdaWg7-QA_sXVRA"
+            "miniatura": "https://i.ytimg.com/vi_lc/yCeRm4eMpAs/hq720_en-US.jpg?sqp=CLy7kdcG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS95Q2VSbTRlTXBBcy9ocWRlZmF1bHQuanBn&rs=AOn4CLAimspWAoc0UAMDKyVsVARgJdvspQ"
         },
         {
             "id": "b0IWmGF_le0",
@@ -19,11 +28,11 @@
             "vistas": 227,
             "duracion": 1455,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi_lc/b0IWmGF_le0/hq720_en-US.jpg?sqp=CJCWjNcG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9iMElXbUdGX2xlMC9ocWRlZmF1bHQuanBn&rs=AOn4CLD5FZ6V3GoKvGDV_Z6JYbAjOaFN3A"
+            "miniatura": "https://i.ytimg.com/vi_lc/b0IWmGF_le0/hq720_en-US.jpg?sqp=CLy7kdcG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9iMElXbUdGX2xlMC9ocWRlZmF1bHQuanBn&rs=AOn4CLCp0xAfn57a1TXfuTDbhsDND8U7iQ"
         },
         {
             "id": "ol1tXWfXcJw",
-            "titulo": "Masa. ¿Peso o masa? El gran engaño ⚖️    #Física #Masa #Inercia #CampoDeHiggs #divulgacióncientífica",
+            "titulo": "Mass. Weight or mass? The big deception ⚖️ #Physics #Mass #Inertia #HiggsField #sciencecommunication",
             "url": "https://www.youtube.com/watch?v=ol1tXWfXcJw",
             "vistas": 25,
             "duracion": 411,
@@ -37,7 +46,7 @@
             "vistas": 1300,
             "duracion": 1793,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi_lc/GJDlwIL9a-o/hq720_en.jpg?sqp=CJCWjNcG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9HSkRsd0lMOWEtby9ocWRlZmF1bHQuanBn&rs=AOn4CLBpIPlCsKkr2Ue-OOmQCykISksrQA"
+            "miniatura": "https://i.ytimg.com/vi_lc/GJDlwIL9a-o/hq720_en.jpg?sqp=CLy7kdcG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9HSkRsd0lMOWEtby9ocWRlZmF1bHQuanBn&rs=AOn4CLBGhwYBJkOTeJwqrCXfGoMss-TA2A"
         },
         {
             "id": "ilHlB9gLDxo",
@@ -68,18 +77,18 @@
         },
         {
             "id": "Pw-s19-fg4o",
-            "titulo": "05 Vectores: La clave matemática para sobrevivir a la deriva #vector #vectores #fisica #vectors",
+            "titulo": "Vectores: La clave matemática para sobrevivir a la deriva #vector #vectores #fisica #vectors",
             "url": "https://www.youtube.com/watch?v=Pw-s19-fg4o",
-            "vistas": 37,
+            "vistas": 38,
             "duracion": 705,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/Pw-s19-fg4o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt44hH4qR4qpjXbb4nkuPBBdSiqw"
         },
         {
             "id": "fM9Ef7XIy4g",
-            "titulo": "04 Galileo Galilei: El invento que destruyó el centro del universo",
+            "titulo": "Galileo Galilei: El invento que destruyó el centro del universo",
             "url": "https://www.youtube.com/watch?v=fM9Ef7XIy4g",
-            "vistas": 111,
+            "vistas": 112,
             "duracion": 441,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/fM9Ef7XIy4g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmudqdKWm5o8VkXBsneG6oDV13zA"
@@ -88,7 +97,7 @@
             "id": "_ltRK1OmwWA",
             "titulo": "03 Differential Calculus: Concepts and Applications",
             "url": "https://www.youtube.com/watch?v=_ltRK1OmwWA",
-            "vistas": 160,
+            "vistas": 161,
             "duracion": 503,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/_ltRK1OmwWA/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFIoOzAP&rs=AOn4CLBAE190ZMbqesacTIlafJEwlx2Dqg"
@@ -97,7 +106,7 @@
             "id": "veBeym-jtU4",
             "titulo": "The Law of Gravity and Calculus",
             "url": "https://www.youtube.com/watch?v=veBeym-jtU4",
-            "vistas": 112,
+            "vistas": 113,
             "duracion": 461,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/veBeym-jtU4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbyk8GRhljTvvQoXLbhZMw19ujiw"
@@ -106,10 +115,10 @@
             "id": "3XotsVVBm-A",
             "titulo": "01 History of the mechanics of the universe",
             "url": "https://www.youtube.com/watch?v=3XotsVVBm-A",
-            "vistas": 92,
+            "vistas": 93,
             "duracion": 348,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi_lc/3XotsVVBm-A/hq720_en.jpg?sqp=CJCWjNcG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8zWG90c1ZWQm0tQS9ocWRlZmF1bHQuanBn&rs=AOn4CLA22jnazC2soH75YuFgM79rdfe73A"
+            "miniatura": "https://i.ytimg.com/vi_lc/3XotsVVBm-A/hq720_en.jpg?sqp=CLy7kdcG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DMhIwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8zWG90c1ZWQm0tQS9ocWRlZmF1bHQuanBn&rs=AOn4CLBU7NCx-RJT0FhLwvuuEE0hnBrggw"
         }
     ],
     "shorts": [
@@ -117,7 +126,7 @@
             "id": "V6DzoNhzuKw",
             "titulo": "The universality of vectors: why the laws of physics don't depend on who's looking 🌌🧭",
             "url": "https://www.youtube.com/shorts/V6DzoNhzuKw",
-            "vistas": 30,
+            "vistas": 56,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/V6DzoNhzuKw/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLC7yomfViMxGgnMqFoQA6KUA5abGw"
@@ -126,7 +135,7 @@
             "id": "7qurlAqAIt0",
             "titulo": "The fascinating history of vectors: from Hamilton and Grassmann to J. Willard Gibbs 📜⚙️#Mathematics",
             "url": "https://www.youtube.com/shorts/7qurlAqAIt0",
-            "vistas": 14,
+            "vistas": 18,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/7qurlAqAIt0/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLC05yNc7WL3Cu0zTkkVCLM9GXuFkQ"
@@ -135,7 +144,7 @@
             "id": "oidkVIdHEB0",
             "titulo": "Magnitude and Direction: The Fundamental Difference Between Scalars and Vectors 📊➡️#Mathematics #...",
             "url": "https://www.youtube.com/shorts/oidkVIdHEB0",
-            "vistas": 55,
+            "vistas": 61,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/oidkVIdHEB0/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDcJowbHIt8xxnOezrbdfLWAQ3Nqg"
@@ -144,7 +153,7 @@
             "id": "IBluZI_WgHc",
             "titulo": "The Secret of Vectors: How to Calculate the Course of a Drifting Ship ⛵🧭 #Mathematics #Vectors",
             "url": "https://www.youtube.com/shorts/IBluZI_WgHc",
-            "vistas": 193,
+            "vistas": 199,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/IBluZI_WgHc/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCFeqQjmc3L4UYeko7_Y_jluwnaGA"
@@ -153,7 +162,7 @@
             "id": "lWQaY8BQlfA",
             "titulo": "Where will the ship be? The vector problem that Descartes made possible #Mathematics #Vectors",
             "url": "https://www.youtube.com/shorts/lWQaY8BQlfA",
-            "vistas": 96,
+            "vistas": 97,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/lWQaY8BQlfA/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCx5nUL3SuF8AvsZhqXkyvgDXIvTQ"
@@ -162,7 +171,7 @@
             "id": "qKgSMLmSG0Y",
             "titulo": "From 2D to 3D and Beyond: The Power of Unit Vectors i, j, and k 🌌📐#Mathematics #Physics #Vectors",
             "url": "https://www.youtube.com/shorts/qKgSMLmSG0Y",
-            "vistas": 97,
+            "vistas": 98,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/qKgSMLmSG0Y/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDMGxT-RngzAe9Fpt1wajtiekR3pA"
@@ -171,7 +180,7 @@
             "id": "jQF1PTj94TA",
             "titulo": "The Ultimate Vector Trick: From Ugly Angles to Unit Vectors i and j📐✨#Mathematics",
             "url": "https://www.youtube.com/shorts/jQF1PTj94TA",
-            "vistas": 252,
+            "vistas": 253,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/jQF1PTj94TA/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBW8iZ4E64KK6uksAVGcg4XuQdeXA"
@@ -196,7 +205,7 @@
         },
         {
             "id": "aQ3nDg1lkxQ",
-            "titulo": "De Galileo a Newton: el secreto matemático de la parábola perfecta 🏹📐",
+            "titulo": "From Galileo to Newton: The Mathematical Secret of the Perfect Parabola 🏹📐",
             "url": "https://www.youtube.com/shorts/aQ3nDg1lkxQ",
             "vistas": 39,
             "duracion": null,
@@ -216,7 +225,7 @@
             "id": "fDrfELJ5mow",
             "titulo": "Newton's 3 Laws explained in 1 minute 🍏⚙️#Physics #NewtonsLaws #Science #Gravity",
             "url": "https://www.youtube.com/shorts/fDrfELJ5mow",
-            "vistas": 692,
+            "vistas": 697,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/fDrfELJ5mow/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLATm1d-Lxi3NdzTP3UZ6lMxK3K6eg"
@@ -234,7 +243,7 @@
             "id": "43HSPDDBcx8",
             "titulo": "Extraterrestrial DANAs! #Physics #DANA #Astronomy #Planets #Thermodynamics #SolarSystem #Science",
             "url": "https://www.youtube.com/shorts/43HSPDDBcx8",
-            "vistas": 941,
+            "vistas": 942,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/43HSPDDBcx8/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBQ8hy4f9SeNy7Ij7hLtkMmB_LTnQ"
@@ -250,7 +259,7 @@
         },
         {
             "id": "TrznVOO7gEc",
-            "titulo": "The DANA is not just bad luck: the masterpiece of thermodynamics 🧩🌪️ #Physics #DANA #Meteorology",
+            "titulo": "La DANA no es mala suerte: la obra maestra de la termodinámica 🧩🌪️  #Física #DANA #Meteorología",
             "url": "https://www.youtube.com/shorts/TrznVOO7gEc",
             "vistas": 317,
             "duracion": null,
@@ -261,14 +270,14 @@
             "id": "BI9WudLv_qk",
             "titulo": "Overshooting tops: When clouds pierce the sky like a battering ram #Physics",
             "url": "https://www.youtube.com/shorts/BI9WudLv_qk",
-            "vistas": 395,
+            "vistas": 397,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/BI9WudLv_qk/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBhcRJ5TuT3NjIu5JpsxlqNP4cl4w"
         },
         {
             "id": "TFV_NxZT9ys",
-            "titulo": "DEATH TRAP! #Physics #DANA #Floods #FlashFlood #Prevention #CivilProtection #Science",
+            "titulo": "¡TRAMPA MORTAL!   #Física #DANA #Inundaciones #FlashFlood #Prevención #ProtecciónCivil #Ciencia",
             "url": "https://www.youtube.com/shorts/TFV_NxZT9ys",
             "vistas": 1000,
             "duracion": null,
@@ -277,9 +286,9 @@
         },
         {
             "id": "17eExpOUMHs",
-            "titulo": "DEATH TRAP! CARS IN A FLASH FLOOD 🚗🌊 #Physics #FlashFlood #Flooding",
+            "titulo": "¡COCHE MORTAL! EN UNA DANA 🚗🌊 #Física #DANA #Inundaciones",
             "url": "https://www.youtube.com/shorts/17eExpOUMHs",
-            "vistas": 209,
+            "vistas": 215,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/17eExpOUMHs/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDuzTqITODMXGXt7h1icmOOx2DofA"
@@ -304,7 +313,7 @@
         },
         {
             "id": "8Z4mnr3rQ1I",
-            "titulo": "DEBUNKING MYTHS! #Meteorology #DANA #SolarStorms #ElNiño #Science #ClimateMyths #Shorts",
+            "titulo": "¡EXTIRPANDO MITOS!     #Meteorología #DANA #TormentasSolares #ElNiño #Ciencia #MitosDelClima #Shorts",
             "url": "https://www.youtube.com/shorts/8Z4mnr3rQ1I",
             "vistas": 1100,
             "duracion": null,
@@ -315,7 +324,7 @@
             "id": "RYRNnkwVA_Q",
             "titulo": "The nightly terror of DANA: why the worst storms strike while you sleep 🌑⛈️#Physics #DANA",
             "url": "https://www.youtube.com/shorts/RYRNnkwVA_Q",
-            "vistas": 285,
+            "vistas": 286,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/RYRNnkwVA_Q/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLB6c5_a5m_mILyHgzHkaIo8NNW_9A"
@@ -342,14 +351,14 @@
             "id": "RH9-jlVlI3w",
             "titulo": "2.5 million Joules per kilo? #Physics #LatentHeat #DANA #Thermodynamics #Meteorology #NASA",
             "url": "https://www.youtube.com/shorts/RH9-jlVlI3w",
-            "vistas": 591,
+            "vistas": 593,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/RH9-jlVlI3w/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBYyqdWb-LR5PA-DSM5ear5WQLdtQ"
         },
         {
             "id": "0XymUq2HJlk",
-            "titulo": "Boiling oil in an ice bath: the violent physics of a DANA 🌋🧊",
+            "titulo": "Aceite hirviendo en una bañera de hielo: la violenta física de una DANA 🌋🧊",
             "url": "https://www.youtube.com/shorts/0XymUq2HJlk",
             "vistas": 503,
             "duracion": null,
@@ -394,7 +403,7 @@
         },
         {
             "id": "e5jQ2XIlqNo",
-            "titulo": "When Atmospheric Math Breaks: The Mystery of CAPE and Navier-Stokes #NavierStokes",
+            "titulo": "Cuando las matemáticas de la atmósfera se rompen: el misterio del CAPE y Navier-Stokes #NavierStokes",
             "url": "https://www.youtube.com/shorts/e5jQ2XIlqNo",
             "vistas": 157,
             "duracion": null,
@@ -421,7 +430,7 @@
         },
         {
             "id": "tYIQ_7oAokU",
-            "titulo": "When the Sky Becomes a Weapon: The Lethal Physics of a DANA ⛈️🌪️ #DANA #Meteorology",
+            "titulo": "Cuando el cielo se convierte en un arma: la física letal de una DANA ⛈️🌪️ #DANA #Meteorología",
             "url": "https://www.youtube.com/shorts/tYIQ_7oAokU",
             "vistas": 120,
             "duracion": null,
@@ -448,7 +457,7 @@
         },
         {
             "id": "Nnn2OBsOJk4",
-            "titulo": "El engaño de los sentidos: lo que pasa cuando intentas parar un objeto en ingravidez",
+            "titulo": "The Illusion of the Senses: What Happens When You Try to Stop an Object in Zero Gravity",
             "url": "https://www.youtube.com/shorts/Nnn2OBsOJk4",
             "vistas": 558,
             "duracion": null,
@@ -511,7 +520,7 @@
         },
         {
             "id": "d3OxgO6YGRI",
-            "titulo": "When the mountain collapses #Physics #Avalanches #Snow #Earthquakes #Geophysics #Science #Shorts",
+            "titulo": "Cuando la montaña se viene abajo #Física #Avalanchas #Nieve #Terremotos #Geofísica #Ciencia #Shorts",
             "url": "https://www.youtube.com/shorts/d3OxgO6YGRI",
             "vistas": 275,
             "duracion": null,
@@ -529,7 +538,7 @@
         },
         {
             "id": "aArvr4fF_BE",
-            "titulo": "¿Qué es la temida \"zona ciega\" de un terremoto? 🛑📉     #ZonaCiega #Sismología #DivulgaciónCientífica",
+            "titulo": "What is the dreaded earthquake \"blind zone\"? 🛑📉 #BlindZone #Seismology #ScienceCommunication",
             "url": "https://www.youtube.com/shorts/aArvr4fF_BE",
             "vistas": 1300,
             "duracion": null,
@@ -538,7 +547,7 @@
         },
         {
             "id": "TOq_1toc4zs",
-            "titulo": "Why does Mexico City shake like a giant flan? 🍮🌍 #Science #ScientificCommunication",
+            "titulo": "¿Por qué la Ciudad de México tiembla como un flan gigante? 🍮🌍 #Ciencia #DivulgaciónCientífica",
             "url": "https://www.youtube.com/shorts/TOq_1toc4zs",
             "vistas": 1100,
             "duracion": null,
@@ -556,7 +565,7 @@
         },
         {
             "id": "7FIiKAeeZxg",
-            "titulo": "¿Cómo funciona la alerta sísmica de los móviles? #Física #Terremotos #CellBroadcast #Shorts",
+            "titulo": "How does mobile earthquake alerting work? #Physics #Earthquakes #CellBroadcast #Shorts",
             "url": "https://www.youtube.com/shorts/7FIiKAeeZxg",
             "vistas": 1000,
             "duracion": null,
@@ -565,7 +574,7 @@
         },
         {
             "id": "tNUsB9d1rKM",
-            "titulo": "How to warn of an earthquake before it hits? ⚡🚨 #EarlyWarning #Technology #Science #shorts",
+            "titulo": "¿Cómo avisar de un terremoto antes de que llegue? ⚡🚨 #AlertaTemprana #Tecnología #Ciencia #shorts",
             "url": "https://www.youtube.com/shorts/tNUsB9d1rKM",
             "vistas": 1200,
             "duracion": null,
@@ -592,7 +601,7 @@
         },
         {
             "id": "AglNWAEyrq0",
-            "titulo": "From 3D chaos to the exact earthquake epicenter. #Seismology #ScienceCommunication #Geophysics",
+            "titulo": "Del caos tridimensional al punto exacto del terremoto. #Sismología #DivulgaciónCientífica #Geofísica",
             "url": "https://www.youtube.com/shorts/AglNWAEyrq0",
             "vistas": 1200,
             "duracion": null,
@@ -801,7 +810,7 @@
             "id": "-OM24VEzSSQ",
             "titulo": "Resumen de las leyes de Galileo #ciencia #astronomia #galileo",
             "url": "https://www.youtube.com/shorts/-OM24VEzSSQ",
-            "vistas": 244,
+            "vistas": 248,
             "duracion": null,
             "fecha_publicacion": null,
             "miniatura": "https://i.ytimg.com/vi/-OM24VEzSSQ/sardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCyh0Lehc4iPcJa-CozH9Jgn2fDBw"
@@ -840,7 +849,7 @@
             "vistas": 874,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/r2gdRkmcyfY/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBK29PokuvA4yLFs7_Yj7fOnFVEdg"
+            "miniatura": "https://i.ytimg.com/vi/r2gdRkmcyfY/oar3.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDQWCOcPYfLkFkxj8jzzkmD23jWTg"
         },
         {
             "id": "hhoMwuiQres",
@@ -858,7 +867,7 @@
             "vistas": 1600,
             "duracion": null,
             "fecha_publicacion": null,
-            "miniatura": "https://i.ytimg.com/vi/7rxwkHH23cU/oar2.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCG73aWfsZj-7A40D4YntEfSBjl8g"
+            "miniatura": "https://i.ytimg.com/vi/7rxwkHH23cU/oar1.jpg?sqp=-oaymwEgCLADEIgFSFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLC7wAGuWsXPhsiQzJhVSSfrBxJ_vg"
         },
         {
             "id": "LOTxItFYc30",
